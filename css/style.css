@@ -1,0 +1,20 @@
+body {
+    color:rgb(98, 5, 110);
+    background-color: black;
+    /*text-align: center;*/
+}
+a:any-link {
+    color:rgb(178, 47, 196);
+    text-decoration:none;
+}
+a:active{
+    color:blue;
+}
+#image {
+    height: 150px;
+    width: 150px;
+}
+pre {
+    border: 0;
+}
+
